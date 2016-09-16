@@ -3,10 +3,17 @@
 <head>
     <title>Matthew Langford's Portfolio</title>
     <style>
-        .first-port{
+        .left-port{
             width: 100px;
             height: 100px;
             float: left;
+            margin-left: 100px;
+        }
+        .right-port{
+            width: 100px;
+            height: 100px;
+            float: right;
+            margin-right: 100px;
         }
         .port{
             border-style: outset;
@@ -101,6 +108,11 @@
 </div>
 <div class="port">
     <p>hihi</p>
+    <img class="left-port" src="http://sizzlingsuperstars.com/wp-content/uploads/2016/06/Tom-Cruise-8.jpg">
+    <img class="right-port" src="http://sizzlingsuperstars.com/wp-content/uploads/2016/06/Tom-Cruise-8.jpg">
+    <img class="left-port" src="http://sizzlingsuperstars.com/wp-content/uploads/2016/06/Tom-Cruise-8.jpg">
+    <img class="right-port" src="http://sizzlingsuperstars.com/wp-content/uploads/2016/06/Tom-Cruise-8.jpg">
+
 </div>
 </body>
 
